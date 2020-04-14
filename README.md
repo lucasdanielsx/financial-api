@@ -1,7 +1,5 @@
 [![Build Status](https://travis-ci.com/lucasdanielsx/financial-api.svg?branch=master)](https://travis-ci.com/lucasdanielsx/financial-api)
 
-[![codecov](https://codecov.io/gh/lucasdanielsx/financial-api/branch/master/graph/badge.svg)](https://codecov.io/gh/lucasdanielsx/financial-api)
-
 # Getting Started
 
 ### Reference Documentation
