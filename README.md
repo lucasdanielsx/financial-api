@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/lucasdanielsx/financial-api.svg?branch=master)](https://travis-ci.com/lucasdanielsx/financial-api)
+
 # Getting Started
 
 ### Reference Documentation
