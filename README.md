@@ -2,9 +2,17 @@
 
 # Getting Started
 
-### Reference Documentation
-For further reference, please consider the following sections:
+### How to run?
+You can use one of the follows commands:
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.2.6.RELEASE/maven-plugin/)
+`mvn spring-boot:run`
 
+or 
+
+`docker build -t financial-api .`
+
+`docker run -p 8080:8080 -t financial-api:latest`
+
+or 
+
+`docker-compose up`
