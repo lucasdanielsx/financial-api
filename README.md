@@ -9,10 +9,14 @@ You can use one of the follows commands:
 
 or 
 
+`mvn clean install`
+
 `docker build -t financial-api .`
 
 `docker run -p 8080:8080 -t financial-api:latest`
 
 or 
+
+`mvn clean install`
 
 `docker-compose up`
