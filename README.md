@@ -7,7 +7,7 @@ You can use one of the follows commands:
 
 `mvn spring-boot:run`
 
-or 
+or docker:
 
 `mvn clean install`
 
@@ -15,7 +15,7 @@ or
 
 `docker run -p 8080:8080 -t financial-api:latest`
 
-or 
+or with docker compose:
 
 `mvn clean install`
 
